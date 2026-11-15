@@ -126,8 +126,3 @@ In de Joodse uitlegtraditie, zoals bij Rashi, bleef de Hebreeuwse brontekst leid
 
 In de westerse en christelijke theologie werd de Grieks-filosofische lezing eeuwenlang invloedrijk.
 
-Je tekst is nu ingedeeld in zeven hoofdonderdelen, met kleinere tussenkopjes en afzonderlijke bronlinks. Ik heb de bronnen en citaten niet inhoudelijk geverifieerd. De opmaak is wel opgeschoond.
-
-Voor Pages CMS: plak de tekst in het vak ‘Mijn essay’ via ‘Source’ zodat de kopjes, cursivering en links in Markdown behouden blijven. Controleer de weergave daarna via ‘Editor’ en klik op ‘Save’.
-
-Eén aandachtspunt: je website toont de eerste regels van het artikel ook als introductie. Als je die dubbele inleiding helemaal wilt verwijderen, moeten we de website-indeling aanpassen.
