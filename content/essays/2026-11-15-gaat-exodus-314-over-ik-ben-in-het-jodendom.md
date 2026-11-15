@@ -2,7 +2,7 @@
 title: "Gaat Exodus 3:14 over IK BEN in het Jodendom "
 category: Jodendom
 date: 2026-11-15
-published: false
+published: true
 ---
 Exodus 3:14 — De Joodse vertaling is taalkundig het meest zuiver
 
