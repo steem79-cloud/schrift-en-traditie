@@ -6,6 +6,12 @@ published: true
 ---
 ## De Hebreeuwse vertaling van Exodus 3:14
 
+
+
+&nbsp;
+
+&nbsp;
+
 Voor dit vers heeft de Joodse vertaling "Ik zal zijn wat ik zal zijn" de sterkste taalkundige papieren.
 
 Het werkwoord *ehyeh* (אֶהְיֶה) staat in het Hebreeuws in het imperfectum (de onvoltooide tijd). Dit duidt vaak op een toekomstige of voortdurende handeling ("ik zal zijn"), en niet noodzakelijk op een statisch "ik ben" in de tegenwoordige tijd.
