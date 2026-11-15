@@ -4,23 +4,7 @@ category: Jodendom
 date: 2026-11-15
 published: true
 ---
-## De Hebreeuwse vertaling van Exodus 3:14
-
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+## De Hebreeuwse vertaling van Exodus 3:1
 
 Voor dit vers heeft de Joodse vertaling "Ik zal zijn wat ik zal zijn" de sterkste taalkundige papieren.
 
