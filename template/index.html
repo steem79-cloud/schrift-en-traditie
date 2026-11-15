@@ -39,7 +39,7 @@ function inlineMd(input){
 }
 function md(input){
   // Maak ook handmatig geplakte teksten leesbaar wanneer een kop aan de alinea vastzit.
-  const source=String(input??'').replace(/\r\n?/g,'\n').replace(/([^\n])([ \t]*#{2,3}[ \t]+)/g,'$1\n\n$2');
+const source=String(input??'').replace(/\r\n?/g,'\n').replace(/([^\n#])([ \t]*#{2,3}[ \t]+)/g,'$1\n\n$2');
   const lines=source.split('\n');
   const out=[];
   let paragraph=[],listType='',listItems=[],quote=[];
