@@ -8,11 +8,9 @@ Exodus 3:14 — De Joodse vertaling is taalkundig het meest zuiver
 
 Voor dit vers heeft de Joodse vertaling
 
-("Ik zal zijn wat ik zal zijn") de sterkste taalkundige papieren.
+("Ik zal zijn wat ik zal zijn") de sterkste taalkundige papieren.Hebreeuwse grammatica: 
 
-
-
-Hebreeuwse grammatica: Het werkwoord ehyeh (אֶהְיֶה) staat in het Hebreeuws in het imperfectum (de onvoltooide tijd). Dit duidt vrijwel altijd op een toekomstige of voortdurende handeling ("ik zal zijn"), en niet op een statisch "ik ben" in de tegenwoordige tijd.
+Het werkwoord ehyeh (אֶהְיֶה) staat in het Hebreeuws in het imperfectum (de onvoltooide tijd). Dit duidt vrijwel altijd op een toekomstige of voortdurende handeling ("ik zal zijn"), en niet op een statisch "ik ben" in de tegenwoordige tijd.
 
 De historische context: God spreekt hier tegen Mozes, die op het punt staat het volk uit Egypte te bevrijden. De boodschap van God is een belofte van trouw voor de toekomst ("Ik zal er voor jullie zijn"), geen filosofische definitie van zijn eeuwige bestaan.
 
