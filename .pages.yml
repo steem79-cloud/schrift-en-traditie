@@ -1,0 +1,39 @@
+
+media: media
+
+content:
+  - name: essays
+    label: Mijn essays
+    type: collection
+    path: content/essays
+    filename: "{year}-{month}-{day}-{title}.md"
+    fields:
+      - name: title
+        label: Titel
+        type: string
+        required: true
+
+      - name: category
+        label: Categorie
+        type: select
+        options:
+          values:
+            - Jodendom
+            - Christendom
+            - Tekstvergelijking
+            - Messias en profetie
+            - Geschiedenis
+            - Filosofie
+
+      - name: date
+        label: Datum
+        type: date
+
+      - name: published
+        label: Publiceren
+        type: boolean
+        default: false
+
+      - name: body
+        label: Mijn essay
+        type: rich-text
