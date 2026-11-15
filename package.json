@@ -1,0 +1,7 @@
+{
+  "name": "schrift-en-traditie",
+  "private": true,
+  "version": "3.0.0",
+  "description": "Blogpublicatie vanuit Pages CMS Markdown naar Netlify",
+  "scripts": {"build": "node build.js"}
+}

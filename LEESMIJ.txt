@@ -1,21 +1,28 @@
-SCHRIFT & TRADITIE - BLOGSITE
+SCHRIFT & TRADITIE - KOPPELING PAGES CMS EN NETLIFY
 
-1. Open index.html in Chrome, Firefox of Edge.
-2. Klik op '+ Nieuw essay'. Vul titel, onderwerp, inleiding en tekst in.
-3. Kies Concept of Gepubliceerd en klik 'Essay opslaan'.
-4. Via 'Alle essays' > 'Beheer' maak je een JSON-back-up van al je essays.
-5. Wil je de blog online zetten? Klik op 'Publicatieversie maken'.
-   Je krijgt een nieuwe index.html, met uitsluitend gepubliceerde essays.
-   Upload deze index.html naar een statische webhost, zoals Netlify of GitHub Pages.
+Dit pakket sluit aan op de bestaande GitHub-repository steem79-cloud/schrift-en-traditie.
 
-BELANGRIJK
-- De editor bewaart teksten in de lokale opslag van je browser op het apparaat
-  waar je deze HTML opent. Teksten synchroniseren niet tussen apparaten.
-- Wis je browsergegevens niet zonder eerst een back-up te downloaden.
-- De openbare publicatieversie bevat geen werkende editor en geen concepten.
-- Bij een nieuw artikel moet je opnieuw een publicatieversie maken en uploaden.
-- Wil je vanuit meerdere apparaten online artikelen schrijven en rechtstreeks
-  publiceren, dan is een CMS zoals WordPress een logische vervolgstap.
-- Site-naam, intro en vormgeving staan in index.html en zijn later aanpasbaar.
+BELANGRIJK:
+- Laat het bestaande bestand .pages.yml staan: dat is al ingesteld in Pages CMS.
+- Laat content/essays en je testartikel staan: die blijven ongewijzigd.
+- Verwijder je bestaande site niet.
 
-Deze site is een startversie zonder betaald abonnement of externe JavaScript-bibliotheken.
+UPLOADING OP GITHUB
+1. Open https://github.com/steem79-cloud/schrift-en-traditie
+2. Klik Add file > Upload files.
+3. Upload de bestanden build.js, netlify.toml en package.json in de HOOFDMAP.
+4. Upload de map template met index.html erin. In GitHub web werkt het slepen van de map vanuit de uitgepakte map doorgaans; controleer of template/index.html zichtbaar is voordat je opslaat.
+5. Klik Commit changes.
+
+Netlify bouwt vanaf nu met de instellingen in netlify.toml. De publicatiemap is dist.
+Bij elke wijziging via Pages CMS maakt Netlify automatisch een nieuwe publieke site.
+
+ARTIKELEN
+- Maak artikelen in app.pagescms.org via Mijn essays.
+- 'Publiceren' uit: concept, verschijnt niet op de website.
+- 'Publiceren' aan en Save: de nieuwe Netlify-build toont het artikel.
+
+LET OP: Pages CMS schrijft content/essays/*.md. Dit pakket leest juist die bestandsvorm.
+Je bestaande testartikel blijft bewaard in GitHub.
+
+De website gebruikt dezelfde vormgeving als de vorige versie, maar toont geen openbare '+ Nieuw essay' knop. Schrijven doe je uitsluitend via Pages CMS.
