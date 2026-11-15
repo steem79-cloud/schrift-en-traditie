@@ -1,0 +1,21 @@
+SCHRIFT & TRADITIE - BLOGSITE
+
+1. Open index.html in Chrome, Firefox of Edge.
+2. Klik op '+ Nieuw essay'. Vul titel, onderwerp, inleiding en tekst in.
+3. Kies Concept of Gepubliceerd en klik 'Essay opslaan'.
+4. Via 'Alle essays' > 'Beheer' maak je een JSON-back-up van al je essays.
+5. Wil je de blog online zetten? Klik op 'Publicatieversie maken'.
+   Je krijgt een nieuwe index.html, met uitsluitend gepubliceerde essays.
+   Upload deze index.html naar een statische webhost, zoals Netlify of GitHub Pages.
+
+BELANGRIJK
+- De editor bewaart teksten in de lokale opslag van je browser op het apparaat
+  waar je deze HTML opent. Teksten synchroniseren niet tussen apparaten.
+- Wis je browsergegevens niet zonder eerst een back-up te downloaden.
+- De openbare publicatieversie bevat geen werkende editor en geen concepten.
+- Bij een nieuw artikel moet je opnieuw een publicatieversie maken en uploaden.
+- Wil je vanuit meerdere apparaten online artikelen schrijven en rechtstreeks
+  publiceren, dan is een CMS zoals WordPress een logische vervolgstap.
+- Site-naam, intro en vormgeving staan in index.html en zijn later aanpasbaar.
+
+Deze site is een startversie zonder betaald abonnement of externe JavaScript-bibliotheken.
