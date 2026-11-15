@@ -31,3 +31,21 @@ Rabbi Jonathan Sacks formuleert het scherp: "'I am what I am' is een vertaling d
 - **[Rabbi Jonathan Sacks, *I Believe* — Shemot](https://www.sefaria.org/I_Believe;_A_Weekly_Reading_of_the_Jewish_Bible,_Shemot;_Faith_in_the_Future.5)** — formuleert het punt scherp: "But this is the God of Aristotle and the philosophers, not the God of Abraham and the prophets. Ehye asher ehye means none of these things. The essential element of the phrase is the dimension omitted by all the early Christian translations, namely the future tense."
 - **[Everett Fox, *The Five Books of Moses*](https://www.sefaria.org/The_Five_Books_of_Moses,_by_Everett_Fox,_Exodus,_Part_I;_The_Deliverance_Narrative,_At_the_Bush;_The_Call.8)** — volgt Buber en Rosenzweig: het werkwoord *hayah* duidt op aanwezigheid, *"being-there"*, niet op tijdloos zijn.
 
+
+
+**Het verschil tussen Grieks en Hebreeuws denken**
+
+Het contrast tussen beide lezingen laat zien hoe taal de betekenis van een tekst kan verschuiven.
+
+- **De Hebreeuwse benadering:** In het bijbelse Hebreeuws wordt God niet omschreven in abstracte begrippen, maar via zijn daden in de geschiedenis. De vorm *ehyeh* ("Ik zal zijn") belooft dat God actief met zijn volk zal meegaan tijdens de bevrijding uit Egypte en in toekomstige moeilijke tijden.
+- **De Griekse benadering:** De Griekse filosofie (zoals bij Plato en Aristoteles) zocht juist naar het onveranderlijke en tijdloze "Zijn" achter de veranderlijke wereld. Toen de tekst in de Septuagint werd vertaald als *egō eimi ho ōn* ("Ik ben de Zijnde"), verschoof de nadruk van wat God *doet* voor mensen naar wat God in zichzelf *is*.
+
+**Hoe die twee werelden samenvloeiden**
+
+De invloed van het Griekse denken verliep in duidelijke stappen via vroege denkers en vertalers.
+
+- **De rol van de Septuagint:** Rond de 3e eeuw voor Christus vertaalden Joodse geleerden in Alexandrië de Hebreeuwse Bijbel naar het Grieks. Het Grieks had andere werkwoordstijden en filosofische begrippen dan het Hebreeuws, waardoor de dynamische belofte een meer statische vorm kreeg.
+- **Philo en de kerkvaders:** Joodse filosofen zoals Philo van Alexandrië en later christelijke theologen als Augustinus gebruikten deze Griekse vertaling. Zij verbonden de bijbelse God met het Griekse ideaal van het hoogste, onveranderlijke Wezen.
+
+In de Joodse uitlegtraditie (zoals bij Rashi) bleef de Hebreeuwse brontekst leidend, waardoor de nadruk op relatie en toekomst behouden bleef. In de westerse en christelijke theologie werd de Grieks-filosofische lezing eeuwenlang de standaard.
+
