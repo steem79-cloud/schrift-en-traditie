@@ -9,47 +9,33 @@ De Messias is geen God, geen God-mens en geen goddelijke incarnatie. Hij is een 
 ## **1. De zeven belangrijkste criteria**
 
 
-<table style="width:100%; border-collapse:collapse;">
-  <thead>
-    <tr>
-      <th style="text-align:left; padding:12px; border-bottom:2px solid #ccc;">Criterium</th>
-      <th style="text-align:left; padding:12px; border-bottom:2px solid #ccc;">Bijbelse grondslag</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">1. Hij is een Joodse man uit de stam Juda, een afstammeling van koning David via de vaderlijke lijn.</td>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">Genesis 49:10, Jeremia 23:5</td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">2. Hij bestudeert en onderhoudt de geschreven en mondelinge Torah.</td>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">Deuteronomium 17:18-20</td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">3. Hij brengt Israël terug tot gehoorzaamheid aan de Torah.</td>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">Ezechiël 37:24</td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">4. Hij treedt op als koning en verdedigt Israël.</td>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">Jeremia 23:5-6</td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">5. Hij herbouwt de Tempel in Jeruzalem.</td>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">Ezechiël 37:26-28</td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">6. Hij verzamelt de Joodse ballingen terug naar Israël.</td>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">Jesaja 11:11-12</td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">7. Zijn koningschap leidt tot een tijdperk van vrede en erkenning van de ene God.</td>
-      <td style="padding:12px; border-bottom:1px solid #ddd;">Jesaja 2:2-4, Zacharia 14:9</td>
-    </tr>
-  </tbody>
-</table>
+1. Joodse afkomst
+De Messias is een Joodse man uit de stam Juda, een afstammeling van koning David via de vaderlijke lijn.
+Bijbelse grondslag: Genesis 49:10, Jeremia 23:5.
 
-<p>Deze criteria zijn gebaseerd op de messiaanse verwachtingen in de Tenach en de systematisering door Maimonides.</p>
+2. Trouw aan de Torah
+Hij bestudeert en onderhoudt de geschreven en mondelinge Torah.
+Bijbelse grondslag: Deuteronomium 17:18-20.
 
+3. Israël terugbrengen tot de Torah
+Hij brengt Israël terug tot gehoorzaamheid aan de Torah.
+Bijbelse grondslag: Ezechiël 37:24.
+
+4. Koningschap
+Hij treedt op als koning en verdedigt Israël.
+Bijbelse grondslag: Jeremia 23:5-6.
+
+5. Herbouw van de Tempel
+Hij herbouwt de Tempel in Jeruzalem.
+Bijbelse grondslag: Ezechiël 37:26-28.
+
+6. Terugkeer van de ballingen
+Hij verzamelt de Joodse ballingen terug naar Israël.
+Bijbelse grondslag: Jesaja 11:11-12.
+
+7. Wereldwijde vrede en erkenning van God
+Zijn koningschap leidt tot een tijdperk van vrede en erkenning van de ene God.
+Bijbelse grondslag: Jesaja 2:2-4, Zacharia 14:9.
 
 
 ## **2. Maimonides maakt een belangrijk onderscheid**
