@@ -9,31 +9,31 @@ De Messias is geen God, geen God-mens en geen goddelijke incarnatie. Hij is een 
 ## **1. De zeven belangrijkste criteria**
 
 
-1. Joodse afkomst
+Joodse afkomst
 De Messias is een Joodse man uit de stam Juda, een afstammeling van koning David via de vaderlijke lijn.
 Bijbelse grondslag: Genesis 49:10, Jeremia 23:5.
 
-2. Trouw aan de Torah
+Trouw aan de Torah
 Hij bestudeert en onderhoudt de geschreven en mondelinge Torah.
 Bijbelse grondslag: Deuteronomium 17:18-20.
 
-3. Israël terugbrengen tot de Torah
+Israël terugbrengen tot de Torah
 Hij brengt Israël terug tot gehoorzaamheid aan de Torah.
 Bijbelse grondslag: Ezechiël 37:24.
 
-4. Koningschap
+Koningschap
 Hij treedt op als koning en verdedigt Israël.
 Bijbelse grondslag: Jeremia 23:5-6.
 
-5. Herbouw van de Tempel
+Herbouw van de Tempel
 Hij herbouwt de Tempel in Jeruzalem.
 Bijbelse grondslag: Ezechiël 37:26-28.
 
-6. Terugkeer van de ballingen
+Terugkeer van de ballingen
 Hij verzamelt de Joodse ballingen terug naar Israël.
 Bijbelse grondslag: Jesaja 11:11-12.
 
-7. Wereldwijde vrede en erkenning van God
+Wereldwijde vrede en erkenning van God
 Zijn koningschap leidt tot een tijdperk van vrede en erkenning van de ene God.
 Bijbelse grondslag: Jesaja 2:2-4, Zacharia 14:9.
 
@@ -52,9 +52,6 @@ Zeker de Messias. Hij slaagt in zijn opdracht, herbouwt de Tempel op de juiste p
 
 Maimonides schrijft ook dat wanneer een kandidaat niet slaagt of wordt gedood voordat hij zijn opdracht voltooit, hij niet de beloofde verlosser is. Zie Hilchot Melachim 11:4, volgens de gebruikelijke hoofdstukindeling.
 
-The Sefaria Library+1
-
-
 
 ## **3. Wat hoeft de Messias niet te zijn?**
 
@@ -63,9 +60,6 @@ Volgens de Rambam hoeft onze Messias geen wonderen te verrichten, doden op te we
 Hij hoeft evenmin God in menselijke gedaante te zijn.
 
 Een voorbeeld uit onze geschiedenis is Bar Kochba. Rabbi Akiva beschouwde hem aanvankelijk als een mogelijke Messias. Na zijn dood werd duidelijk dat hij de messiaanse opdracht niet had voltooid.
-
-The Sefaria Library+1
-
 
 
 ## **4. Het beslissende beginsel**
