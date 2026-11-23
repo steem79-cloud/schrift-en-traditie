@@ -52,6 +52,18 @@ const source=String(input??'').replace(/\r\n?/g,'\n').replace(/([^\n#])([ \t]*#{
   for(const line of lines){
     const t=line.trim();
     if(!t){flushAll();continue;}
+    
+const image=t.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+if(image){
+  flushAll();
+  let src=image[2];
+  if(src.startsWith('/media/')){
+    src='/schrift-en-traditie'+src;
+  }
+  out.push('<img src="'+escapeHtml(src)+'" alt="'+escapeHtml(image[1])+'" style="max-width:100%;height:auto;display:block;margin:20px auto;">');
+  continue;
+}
+
     const heading=t.match(/^(#{1,3})\s+(.+)$/);
     if(heading){flushAll();const level=Math.max(2,heading[1].length);out.push('<h'+level+'>'+inlineMd(heading[2])+'</h'+level+'>');continue;}
     const quoteLine=t.match(/^>\s?(.*)$/);
