@@ -4,8 +4,6 @@ category: Tekstvergelijking
 date: 2026-11-25
 published: true
 ---
-
-
 ![image.png](/media/image-1.png)
 
 
