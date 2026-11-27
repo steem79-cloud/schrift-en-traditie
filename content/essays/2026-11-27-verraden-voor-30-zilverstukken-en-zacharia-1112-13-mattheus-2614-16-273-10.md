@@ -39,15 +39,5 @@ Singer wijst er ook op dat het Nieuwe Testament zichzelf op dit punt tegenspreek
 - Volgens **Mattheüs 27:5-7** krijgt Judas spijt, gooit hij het geld in de tempel, verhangt hij zich, en kopen de **hogepriesters** met dat geld de akker van de pottenbakker.
 - Volgens **Handelingen 1:18** koopt **Judas zelf** met het loon van zijn ongerechtigheid een akker, valt hij voorover en barst hij open.
 
-### Samenvattend overzicht
-
-
-|  |  |  |
-| ------------------------------------ | ----------------------------------------------- | ----------------------------------------------------- |
-| **Kenmerk** | **Zacharia 11:12-13** | **Mattheüs 26–27** |
-| **Wie krijgt de 30 zilverstukken?** | De goede herder (God/de profeet). | Judas Iskariot (de verrader). |
-| **Wat betekent het bedrag?** | Een beledigend laag loon voor bewezen diensten. | Bloedgeld / omkoopsom voor verraad. |
-| **Wie werpt het geld in de tempel?** | De profeet Zacharia, in opdracht van God. | Judas, uit wroeging na het verraad. |
-| **Geciteerde bron** | Boek Zacharia. | Wordt in Mattheüs 27:9 toegeschreven aan **Jeremia**. |
-
+![image.png](/media/image-3.png)
 
