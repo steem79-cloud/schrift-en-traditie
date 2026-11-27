@@ -1,5 +1,6 @@
 ---
 title: 61 messiaanse profetieën weerlegd vanuit orthodox-joods perspectief.
+category: Messias en profetie
 date: 2026-11-27
 published: true
 ---
