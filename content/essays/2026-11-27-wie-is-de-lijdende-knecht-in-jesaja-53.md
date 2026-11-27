@@ -22,3 +22,25 @@ Hieronder staan de belangrijkste argumenten uit zijn betoog overzichtelijk op ee
 6. **Hoofdstuk 54 bevestigt direct het herstel van Israël** Direct na het lijden in hoofdstuk 53 volgt in Jesaja 54 de belofte van herstel voor de "verlaten vrouw" (Jeruzalem/Israël), waarin God belooft haar nakomelingen te vermenigvuldigen. In **Jesaja 54:17** wordt de lijn bovendien doorgetrokken in het meervoud: *"Dit is het erfelijk bezit van de **knechten** van de HEERE..."*
 7. **De knecht wordt eerder in Jesaja "blind en doof" genoemd** In een eerder "Knecht-lied" (**Jesaja 42:19**) vraagt God: *"Wie is er blind, tenzij Mijn knecht, en doof als Mijn bode die Ik zend?"* Dit kan volgens Singer onmogelijk slaan op een volmaakte, zondeloze messias, maar beschrijft het volk Israël dat vaak ongehoorzaam was aan God en toch Zijn uitverkoren knecht blijft.
 
+**Jesaja 53:4 gaat over het *dragen* van ellende, niet over het *genezen* van zieken** In Mattheüs 8:16-17 wordt Jesaja 53:4 (*"Hij heeft onze ziekten gedragen"*) aangehaald als bewijs voor de lichamelijke genezingen die Jezus verrichtte. Volgens Singer staat er in het Hebreeuws echter niets over genezen: de werkwoorden betekenen een zware last *dragen* of *op zich nemen*. Bovendien lijdt de knecht in Jesaja 53:4 zelf onder deze plagen, terwijl Jezus bij zijn genezingen niet zelf ziek werd. De "ziekten" in Jesaja zijn een beeldspraak voor het verdriet en de ellende die Israël doorstond, geen letterlijke medische kwalen.
+
+### 1. Wat staat er werkelijk in Jesaja 53:4?
+
+In Jesaja 53:4 staat in het Hebreeuws:
+
+> *"Waarlijk, onze ziekten (cholajenoe) heeft hij gedragen, en onze smarten (mach'ovenoe) heeft hij op zich geladen..."*
+
+- **Geen genezing, maar overname van lijden:** Het Hebreeuwse werkwoord *nasa* (נָשָׂא) betekent **"dragen"** of **"op zich nemen"** (zoals een zware last), en *saval* (סָבַל) betekent **"torsten"**. Er staat nergens dat de knecht ziekten *wegneemt* of mensen *geneest*.
+- **Metafoor voor leed in ballingschap:** In de context van Jesaja 53 spreken de heidense koningen (uit Jesaja 52:15) die toekijken hoe Israël wordt vernederd. "Ziekten" en "smarten" zijn hier metaforen voor het diepe verdriet, de ellende en de straf die het Joodse volk moest verduren door de hand van de volken.
+
+### 2. Hoe Mattheüs 8:16-17 dit gebruikt
+
+In Mattheüs 8 geneest Jezus allerlei zieken en bezetenen in Kafarnaüm. Mattheüs schrijft daarbij:
+
+> *"Opdat vervuld zou worden wat gesproken is door de profeet Jesaja, toen hij zei: Hij heeft onze zwakheden op Zich genomen, en onze ziekten gedragen."* (Mattheüs 8:17)
+
+Volgens Tovia Singer laat dit citaat een grote innerlijke tegenstrijdigheid zien in de christelijke theologie:
+
+- **Genezen is het tegenovergestelde van dragen:** Als een arts een patiënt geneest van griep, neemt de arts die griep niet zelf over; hij maakt de patiënt beter. In Jesaja 53:4 wordt de knecht juist *zelf* zwaar getroffen en verminkt door het lijden (*"wij hielden hem voor een geplaagde, door God geslagen en verdrukt"* – vers 4b). Jezus werd in Mattheüs 8 niet zelf ziek toen hij mensen genas.
+- **Strijd met de kruisigingstheologie:** Binnen het christendom wordt Jesaja 53 normaal gesproken toegepast op Jezus' **kruisdood** (waar hij de geestelijke zonden van de mensheid droeg). Maar Mattheüs past ditzelfde vers al tijdens Jezus' leven toe op alledaagse lichamelijke genezingen. Volgens Singer bewijst dit dat de schrijvers van het Nieuwe Testament losse zinnen uit de Tenach plukten en ze op uiteenlopende gebeurtenissen plakten, zonder te letten op de werkelijke betekenis in de context.
+
